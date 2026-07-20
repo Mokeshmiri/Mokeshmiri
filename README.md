@@ -124,9 +124,41 @@ End-to-end anomaly-detection prototype with data preparation, an Isolation Fores
 </tr>
 </table>
 
+## Real-time & interactive systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Ayene Matrix
+
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-D97706?style=flat-square)
+
+Real-time face-driven dot-matrix mirror combining MediaPipe expression tracking, interactive ML classification, OSC messaging, Processing visuals, and local WebRTC streaming.
+
+`Python` `MediaPipe` `OSC` `Processing` `Wekinator`
+
+[![View repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Mokeshmiri/Ayene-Matrix)
+
+</td>
+<td width="50%" valign="top">
+
+### Music & Multimedia Labs
+
+![Creative Computing](https://img.shields.io/badge/Creative-Computing-DB2777?style=flat-square)
+
+Four curated labs covering audio codec analysis, FFT-driven visuals, interactive machine learning, gesture regression, and network protocol analysis.
+
+`Processing` `Python` `Wekinator` `MediaPipe` `Wireshark`
+
+[![View repository](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/Mokeshmiri/Music-Multimedia-Labs)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
 **Reliable backends · Clear interfaces · Data-driven systems**
 
 </div>
-
