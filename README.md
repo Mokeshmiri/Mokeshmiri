@@ -1,20 +1,22 @@
 <div align="center">
 
-# Hi, I'm Mo Keshmiri
-
-### Software Engineer · Full-Stack Developer · Data & ML
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Mohamad%20Keshmiri&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%C2%B7%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20Data%20%26%20ML&descSize=16&descAlignY=60" alt="Mohamad Keshmiri" />
 
 Computer Engineering student at **Politecnico di Torino** building reliable backend systems, data-driven applications, and clear user experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mokeshmiri/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhkeshmiri79@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Turin,_Italy-181717?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/Mokeshmiri)
 
 </div>
 
 ## About
 
-I develop end-to-end software across backend services, full-stack web applications, data pipelines, and applied machine learning. My experience includes Python ETL workflows, REST APIs, relational databases, real-time telemetry processing, and collaborative software delivery.
+I build software across backend services, full-stack web applications, data pipelines, and applied machine learning. My work includes Python ETL workflows, REST APIs, relational databases, real-time data processing, and team-based software delivery with code reviews and automated tests.
 
-I care about maintainable architecture, useful automation, reliable data, and software that solves practical problems.
+I care about clean architecture, useful automation, reliable data, and software that solves practical problems.
+
+> **Open to** internships, junior and graduate roles in software engineering (backend, full-stack, data/ML), in Italy and remote across Europe.
 
 ## Skills
 
@@ -78,7 +80,7 @@ EC2 · Lambda · API Gateway · Git workflows · code reviews · Agile/Scrum · 
 </tr>
 </table>
 
-## Selected engineering work
+## Selected work
 
 <table>
 <tr>
