@@ -12,16 +12,16 @@ I build backend systems, data pipelines and real-time apps, and I like turning m
 
 #### Things I've built
 
-**[Weather Report](https://github.com/Mokeshmiri/java-oop-university/tree/main/T116-weather-report)** · Java, JPA, JUnit
+**[Weather Report](https://github.com/Mokeshmiri/java-oop-university/tree/main/T116-weather-report)** · Java, JPA, JUnit<br>
 Team-built monitoring system with layered architecture, persistence, anomaly detection, access control and automated tests.
 
-**[SilkStep](https://github.com/Mokeshmiri/SilkStep)** · Python, Flask, SQLite
+**[SilkStep](https://github.com/Mokeshmiri/SilkStep)** · Python, Flask, SQLite<br>
 Tour-booking platform with authentication, roles, scheduling, capacity limits and an admin area.
 
-**[Housing Anomaly Detection](https://github.com/Mokeshmiri/housing-anomaly-detection-streamlit)** · Python, scikit-learn
+**[Housing Anomaly Detection](https://github.com/Mokeshmiri/housing-anomaly-detection-streamlit)** · Python, scikit-learn<br>
 Unsupervised anomaly detection on the California Housing data: scikit-learn pipeline, adjustable sensitivity, and plain-language explanations of why each area looks unusual.
 
-**[Ayene Matrix](https://github.com/Mokeshmiri/Ayene-Matrix)** · Python, MediaPipe, OSC
+**[Ayene Matrix](https://github.com/Mokeshmiri/Ayene-Matrix)** · Python, MediaPipe, OSC<br>
 A live face-driven dot-matrix mirror that tracks expressions in real time.
 
 ---
