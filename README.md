@@ -19,7 +19,7 @@ Team-built monitoring system with layered architecture, persistence, anomaly det
 Tour-booking platform with authentication, roles, scheduling, capacity limits and an admin area.
 
 **[Housing Anomaly Detection](https://github.com/Mokeshmiri/housing-anomaly-detection-streamlit)** · Python, scikit-learn
-End-to-end Isolation Forest prototype with an interactive app that explains its results in plain language.
+Unsupervised anomaly detection on the California Housing data: scikit-learn pipeline, adjustable sensitivity, and plain-language explanations of why each area looks unusual.
 
 **[Ayene Matrix](https://github.com/Mokeshmiri/Ayene-Matrix)** · Python, MediaPipe, OSC
 A live face-driven dot-matrix mirror that tracks expressions in real time.
